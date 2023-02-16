@@ -1,0 +1,214 @@
+*{
+    margin: 0;
+    padding: 0;
+ 
+}
+body{
+    background-color: aquamarine;
+}
+header{
+    background-image: url(https://images.pexels.com/photos/2121121/pexels-photo-2121121.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+header div{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 80px;
+}
+header div ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 80px;
+    list-style: none;
+}
+header nav{
+    margin-top: 60px;
+    margin-left: 50px;
+   
+}
+nav h1{
+    font-size: 60px;
+}
+header nav button{
+    background-color: rgba(215, 10, 222, 0.564);
+    border: none;
+    padding: 8px;
+    border-radius: 20px;
+}
+div.main2{
+    background-color: white;
+    border: none;
+    height: 60px;
+    width: 220px;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    position: relative;
+    left: 15px;
+    top: 270px;
+  
+}
+button.main3{
+    background-color: blueviolet;
+    border: none;
+    border-radius: 10px;
+    padding: 3px;
+    padding-left: 6px;
+    padding-right: 6px;
+    color: white;
+}
+div.head4{
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    align-items:flex-end;
+    position:relative;
+    font-size: 40px;
+    top:200px;
+    color: rgb(52, 64, 238);
+}
+div h1.div1{
+    margin-top: 60px;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+main nav{
+    display: flex;
+}
+div.main5{
+   
+    background-size: cover;
+    height: 300px;
+    width: 250px;
+    margin: 20px;
+    border-radius: 10px;
+}
+div.img1{
+    background-image: url(./image/house2.jpg);
+}
+div.img2{
+    background-image: url(./image/house3.jpg);
+    margin: 30px;
+}
+div.img3{
+    background-image: url(./image/house4.jpg);
+    margin-top: 50px;
+}
+div.img4{
+    background-image: url(./image/house5.jpg);
+    margin-top: 50px;
+}
+div.img5{
+    background-image: url(./image/house8.jpg);
+    margin: 30px;
+}
+div.img6{
+    background-image: url(./image/house9.jpg);
+}
+div.img7{
+    background-image: url(./image/house10.jpg);
+}
+div.img8{
+    background-image: url(./image/house11.jpg);
+    margin: 30px;
+}
+div.img9{
+    background-image: url(./image/house12.jpg);
+    margin-top: 50px;
+}
+img.main1{
+    height: 300px;
+    width: 250px;
+    margin: 20px;
+    border-radius: 10px;
+}
+img.img3{
+   margin-top: 50px;
+  
+}
+img.img2{
+    margin-top: 35px;
+ }
+
+nav.section2{
+    display: flex;
+    gap: 40px;
+    text-align: center;
+    justify-content: center;
+   gap: 50px;
+}
+section nav div.section3{
+    
+   margin-top: 50px;
+    
+}
+section button{
+    border: none;
+    background-color: blueviolet;
+    border-radius: 10px;
+    padding: 5px;
+    color: white;
+}
+div.footer1{
+    background-color: rgba(215, 10, 222, 0.564);
+    height: 300px;
+    margin-left: 60px;
+    margin-right: 60px;
+    border-radius: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+ 
+}
+button.footer4{
+    padding: 8px;
+    background-color: rgb(94, 73, 113);
+}
+input.footer3{
+   border: none;
+    background-color:  rgb(94, 73, 113);
+ 
+}
+h1.footerlogo{
+    color:rgba(215, 10, 222, 0.564) ;
+}
+nav.footer5{
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    margin-top: 20px;
+}
+button.icon{
+    background-color:rgba(215, 10, 222, 0.564);
+    border-radius: 50%;
+    
+    color: white;
+}
+footer button{
+    border: none;
+    background-color: white;
+    border-radius: 20px;
+    padding: 8px;
+
+}
+footer h1{
+    font-size: 50px;
+}
+ footer div.footer2{
+    position: relative;
+    top: 60px;
+}
+main{
+    margin: 100px;
+}
